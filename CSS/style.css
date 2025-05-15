@@ -50,7 +50,7 @@ button:hover {
 @media (max-width: 768px) {
     .quiz-container {
         padding: 30px;
-        width: 90%;
+        width: 80%;
     }
 
     h1 {
